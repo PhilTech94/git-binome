@@ -1,3 +1,3 @@
 # git-binome
 
-# Carnet de voyage
+# voyages - carnet
