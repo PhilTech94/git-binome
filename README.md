@@ -1,3 +1,8 @@
-# git-binome
 
 # voyages - carnet
+
+- Tokyo
+- New York
+- Marrakech
+
+
